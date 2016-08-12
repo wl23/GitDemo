@@ -28,6 +28,8 @@
     NSLog(@"是吧");
     NSLog(@"en");
     NSLog(@"sdaffsda");
+    NSLog(@"nitaihuanile");
+    NSLog(@"好吧");
 }
 
 - (void)didReceiveMemoryWarning {
