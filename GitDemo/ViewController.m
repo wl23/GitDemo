@@ -27,6 +27,7 @@
     NSLog(@"The result is: %d", self.sum);
     NSLog(@"是吧");
     NSLog(@"en");
+    NSLog(@"sdaffsda");
 }
 
 - (void)didReceiveMemoryWarning {
